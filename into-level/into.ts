@@ -10,3 +10,4 @@ let user = {name :"Vaibhav", age : 25};
 console.log(user);
 
 console.log("User name",user.name);
+
