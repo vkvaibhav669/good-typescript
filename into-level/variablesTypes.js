@@ -2,3 +2,9 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var greeeting = "hello vaibhav ";
 console.log(greeeting);
+greeeting = "Hello world";
+console.log(greeeting);
+var lg = greeeting.toLowerCase();
+console.log(lg);
+var ng = greeeting.toUpperCase();
+console.log(ng);
